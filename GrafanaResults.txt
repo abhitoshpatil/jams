@@ -1,2 +1,2 @@
-For runtime test monitoring navigate to:
+Grafana Link:
 http://localhost:3000/d/wyJWiLInk/apm-dashboard?orgId=1&refresh=5s
